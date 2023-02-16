@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ana Bindiu!
-- 👀 I’m interested in Computer Science
+- 👀 I’m interested in Software Engineering/Information Security
 - 🌱 I’m currently in my 4th year of Computer Science at University of Calgary!
 - 📫 How to reach me:
       gmail: anabindiu11@gmail.com
